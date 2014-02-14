@@ -1,5 +1,5 @@
 ## [EMS] Epoch Mission System 
-### Version 1.0 
+### Version 0.3
 #### Based on Vampire's DZMS 
 > http://opendayz.net/threads/beta-dzms-dayz-mission-system.18421/ 
 
@@ -26,7 +26,7 @@ Installation
 --------------------------
 1.	Download the Github Zip folder and open it with your unPacker of choice.
 
-	> https://github.com/TheFuchs/EMS-1.0-Epoch-Mission-System/archive/master.zip
+	> https://github.com/TheFuchs/EMS-0.3/archive/master.zip
 	
 2.	Extract it to your Desktop or somewhere where you won't lose it.
 	Inside the Zip is this Readme.MD, a folder called Documentation, and one called DZMS.
