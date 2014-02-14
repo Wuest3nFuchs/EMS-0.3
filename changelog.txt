@@ -1,0 +1,17 @@
+=======================================
+======== Epoch Mission System  ========
+====== Rolling Change Log: 0.3 ======
+=======================================
+
+Release version: 0.3
+Release date: Feb 14, 2014
+
+Notes: 
+Version 0.3 based on DZMS 1.0 from Vampire !
+
+
+* [FIXED] SM8 Major, dzmsbox.sqf one }; was too much
+* [UPDATED] Github with changelog and renamed Version
+* [ADDED] some stuff from EMS 0.2.6 Crates 
+* [REMOVED] ...nothing yet
+* [TODO] Redefine some AI setups for sniper axeman mission !
