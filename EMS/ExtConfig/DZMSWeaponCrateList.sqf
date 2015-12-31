@@ -17,17 +17,16 @@ DZMSprimaryList = ["AK_47_M","AK_74","AKS_74_kobra","AKS_74_U","BAF_L85A2_RIS_Ho
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 // Epoch Supplies. If you have Epoch, these are the supplies in the Construction Crates
-DZMSConTools = ["ItemToolbox","ItemCrowbar","ItemKnife","ItemEtool","ItemHatchet_DZE","ItemMatchbox_DZE"];
+DZMSConTools = ["ItemToolbox","ItemCrowbar","ItemKnife","ItemEtool","ItemHatchet_DZE"];
 
-DZMSConSupply = ["CinderBlocks","MortarBucket","ItemTankTrap","ItemPole","PartGeneric","PartPlywoodPack","PartPlankPack","ItemTentOld","ItemTentDomed","ItemTentDomed2","ItemSandbag","ItemWire","workbench_kit","ItemGenerator"];
+DZMSConSupply = ["metal_floor_kit","CinderBlocks","metal_floor_kit","CinderBlocks","CinderBlocks","MortarBucket","MortarBucket","MortarBucket","ItemTankTrap","ItemPole","PartGeneric","PartPlywoodPack","PartPlankPack","ItemSandbag","ItemWire","workbench_kit","ItemGenerator"];
 
-////////////////////////////////////////////////////////////////////////////////////////////////
-// EMS Stuff
-EMSToolsCon = ["ChainSaw","ItemToolbox","ItemCrowbar","ItemKnife","ItemEtool","ItemHatchet_DZE","ItemMatchbox_DZE"];
+EMSGold = ["ItemGoldBar10oz","ItemGoldBar","ItemGoldBar","ItemGoldBar","ItemGoldBar10oz"];
 
-EMSSupplyCon = ["ItemSandbag","ItemCanvas","bulk_empty","CinderBlocks","MortarBucket","ItemTankTrap","ItemPole","PartWoodPile","PartGeneric","PartPlywoodPack","PartPlankPack","ItemTentOld","ItemTentDomed","ItemTentDomed2","ItemSandbag","ItemWire","workbench_kit","ItemGenerator"];
+EMSMedicals = ["ItemBandage","ItemMorphine","ItemEpinephrine","ItemPainkiller","ItemWaterbottle","FoodMRE","ItemAntibiotic","ItemBloodbag","ItemBloodbag"];
 
-EMSWeaponry = ["M4A1_RCO_GL","M16A4_GL","M4A3_CCO_EP1","M4SPR","M24_des_EP1","M4A3_RCO_GL_EP1","M16A4_ACG","AK_74_GL","M16A4_ACG_GL"];
+EMSWeaponry = ["AK_47_M","AK_74","AKS_74_kobra","AKS_74_U","BAF_L85A2_RIS_Holo","bizon_silenced","FN_FAL_ANPVS4","FN_FAL","G36A_camo","G36C_camo","G36C","G36K_camo","M1014","M16A2","M16A2GL","M4A1_AIM_SD_camo","M4A1_Aim","M4A1_HWS_GL_camo","M4A1","M4A3_CCO_EP1","Remington870_lamp","Sa58P_EP1","Sa58V_CCO_EP1","Sa58V_EP1","Sa58V_RCO_EP1"];
 
-EMSMedicals = ["ItemBandage","ItemMorphine","ItemEpinephrine","ItemPainkiller","FoodMRE","ItemSodaCoke","ItemAntibiotic","ItemBloodbag","HandRoadFlare"]
+    Status API Training Shop Blog About Pricing 
 
+    © 2015 GitHub, Inc.
