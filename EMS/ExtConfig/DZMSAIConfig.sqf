@@ -7,13 +7,26 @@
 
 ///////////////////////////////////////////////
 // Array of skin classnames for the AI to use
-DZMSBanditSkins = ["Bandit1_DZ","BanditW1_DZ","BanditW2_DZ","Bandit2_DZ"];
+DZMSBanditSkins = ["TK_INS_Soldier_AT_EP1","TK_INS_Soldier_AA_EP1","TK_GUE_Soldier_AAT_EP1","TK_GUE_Soldier_MG_EP1"];
 
 ////////////////////////
 // Array of AI Skills
-DZMSSkills1 = [
-["aimingAccuracy",0.60],
+DZMSSkills0 = [
+["aimingAccuracy",0.65],
 ["aimingShake",0.60],
+["aimingSpeed",1.00],
+["endurance",1.00],
+["spotDistance",0.60],
+["spotTime",1.00],
+["courage",0.60],
+["reloadSpeed",1.00],
+["commanding",1.00],
+["general",0.60]
+];
+
+DZMSSkills1 = [
+["aimingAccuracy",0.70],
+["aimingShake",0.70],
 ["aimingSpeed",1.00],
 ["endurance",1.00],
 ["spotDistance",1.00],
@@ -25,21 +38,21 @@ DZMSSkills1 = [
 ];
 
 DZMSSkills2 = [
-["aimingAccuracy",0.15],
-["aimingShake",0.20],
+["aimingAccuracy",0.80],
+["aimingShake",0.80],
 ["aimingSpeed",1.00],
 ["endurance",1.00],
 ["spotDistance",1.00],
 ["spotTime",1.00],
 ["courage",1.00],
-["reloadSpeed",1.00],
-["commanding",1.00],
-["general",1.00]
+["reloadSpeed",0.80],
+["commanding",0.80],
+["general",0.80]
 ];
 
-DZMSSkills3 = [
-["aimingAccuracy",0.60],
-["aimingShake",0.60],
+DZMSSkills3 = [	
+["aimingAccuracy",1.00],
+["aimingShake",1.00],
 ["aimingSpeed",1.00],
 ["endurance",1.00],
 ["spotDistance",1.00],
@@ -53,7 +66,7 @@ DZMSSkills3 = [
 //////////////////////////////////////////////////////////////
 // This is the primary weaponlist that can be assigned to AI
 // These are assigned based on AI difficulty level
-DZMSWeps1 = [
+DZMSWeps0 = [
 "M16A2",
 "M16A2GL",
 "AK_74",
@@ -66,13 +79,13 @@ DZMSWeps1 = [
 "DMR_DZ",
 "M4A1",
 "M14_EP1",
-"Remington870_lamp",
+"AK_107_GL_Kobra",
 "MP5A5",
 "MP5SD",
 "M4A3_CCO_EP1"
 ];
 
-DZMSWeps2 = [
+DZMSWeps1 = [
 "M16A2",
 "M16A2GL",
 "M249_DZ",
@@ -87,7 +100,7 @@ DZMSWeps2 = [
 "DMR_DZ",
 "M4A1",
 "M14_EP1",
-"Remington870_lamp",
+"AK_107_GL_Kobra",
 "M240_DZ",
 "M4A1_AIM_SD_camo",
 "M16A4_ACG",
@@ -99,6 +112,24 @@ DZMSWeps2 = [
 "M40A3",
 "Sa58P_EP1",
 "Sa58V_EP1"
+];
+
+DZMSWeps2 = [
+"FN_FAL",
+"FN_FAL_ANPVS4",
+"Mk_48_DZ",
+"M249_DZ",
+"BAF_L85A2_RIS_Holo",
+"G36C",
+"G36C_camo",
+"G36A_camo",
+"G36K_camo",
+"AK_47_M",
+"AKS_74_U",
+"M14_EP1",
+"bizon_silenced",
+"DMR_DZ",
+"RPK_74"
 ];
 
 DZMSWeps3 = [
